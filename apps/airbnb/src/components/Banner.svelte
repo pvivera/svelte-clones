@@ -1,0 +1,78 @@
+<script lang="ts">
+	function updatePosition(event) {
+		console.log(event);
+	}
+</script>
+
+<div on:scroll={updatePosition}>
+	Banner<br />
+	Banner<br />
+	Banner<br />
+	Banner<br />
+	Banner<br />
+	Banner<br />
+	Banner<br />
+	Banner<br />
+	Banner<br />
+	Banner<br />
+	Banner<br />
+	Banner<br />
+	Banner<br />
+	Banner<br />
+	Banner<br />
+	Banner<br />
+	Banner<br />
+	Banner<br />
+	Banner<br />
+	Banner<br />
+	Banner<br />
+	Banner<br />
+	Banner<br />
+	Banner<br />
+	Banner<br />
+	Banner<br />
+	Banner<br />
+	Banner<br />
+	Banner<br />
+	Banner<br />
+	Banner<br />
+	Banner<br />
+	Banner<br />
+	Banner<br />
+	Banner<br />
+	Banner<br />
+	Banner<br />
+	Banner<br />
+	Banner<br />
+	Banner<br />
+	Banner<br />
+	Banner<br />
+	Banner<br />
+	Banner<br />
+	Banner<br />
+	Banner<br />
+	Banner<br />
+	Banner<br />
+	Banner<br />
+	Banner<br />
+	Banner<br />
+	Banner<br />
+	Banner<br />
+	Banner<br />
+	Banner<br />
+	Banner<br />
+	Banner<br />
+	Banner<br />
+	Banner<br />
+	Banner<br />
+	Banner<br />
+	Banner<br />
+	Banner<br />
+	Banner<br />
+	Banner<br />
+	Banner<br />
+	Banner<br />
+	Banner<br />
+	Banner<br />
+	Banner<br />
+</div>
